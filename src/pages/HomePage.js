@@ -10,10 +10,10 @@ function HomePage() {
     //BEM
     <div className="homePage">
       <div className="homePage__Logo">
-        <img className="logo" src="https://i.postimg.cc/TwyCMzYW/Untitled.png" alt="Logo.png" />
+        <img className="logo" src="https://i.postimg.cc/gJyG0qZD/icon.png" alt="Logo.png" />
         <h2>Eden</h2>
       </div>
-      <img className="progress__One" src="https://i.postimg.cc/WzZm6pH1/Progress-1.png" alt="Progress.png" />
+      <img className="progress__One" src="https://i.postimg.cc/wTp0J5sN/Progress1.png" alt="Progress.png" />
       <h1>Welcome! First things first...</h1>
       <div className="homePage__Tagline">
         You can always change them later.

@@ -9,10 +9,10 @@ function SecondPage() {
   return (
     <div className="secondPage">
         <div className="secondPage__Logo">
-            <img className="logo" src="https://i.postimg.cc/VvJnss8F/Icon.png" alt="Logo.png" />
+            <img className="logo" src="https://i.postimg.cc/gJyG0qZD/icon.png" alt="Logo.png" />
             <h2>Eden</h2>
         </div>
-        <img className="progress__Two" src="https://i.postimg.cc/qvwsG5jy/Progress-2.png" alt="Progress.png" />
+        <img className="progress__Two" src="https://i.postimg.cc/3NCj96Dv/Progress2.png" alt="Progress.png" />
         <h1>Let's set up a home for all your work</h1>
         <div className="secondPage__Tagline">
             You can always create another workspace later.

@@ -11,10 +11,10 @@ function ThirdPage() {
   return (
     <div className="thirdPage">
         <div className="thirdPage__Logo">
-            <img className="logo" src="https://i.postimg.cc/VvJnss8F/Icon.png" alt="Logo.png" />
+            <img className="logo" src="https://i.postimg.cc/gJyG0qZD/icon.png" alt="Logo.png" />
             <h2>Eden</h2>
         </div>
-        <img className="progress__Three" src="https://i.postimg.cc/qqH6rs1p/Progress-3.png" alt="Progress.png" />
+        <img className="progress__Three" src="https://i.postimg.cc/4NfpsW9W/Progress3.png" alt="Progress.png" />
         <h1>How are you planning to use Eden?</h1>
         <div className="thirdPage__Tagline">
             We'll streamline your setup experience accordingly.
