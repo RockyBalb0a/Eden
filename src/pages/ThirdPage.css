@@ -1,0 +1,91 @@
+.thirdPage {
+    text-align: center;
+}
+
+.thirdPage__Logo {
+    margin-top: 60px;
+}
+
+h2 {
+    display:inline-block;
+    vertical-align:middle;
+    font-size: 35px;
+    margin-left: 7px;
+}
+
+.logo {
+    display:inline-block;
+    vertical-align:middle;
+    max-width: 35px;
+}
+
+.progress__Three{
+    margin-top: 21px;
+    padding-bottom: 71px;
+}
+
+h1{
+    margin: 0;
+}
+
+.thirdPage__Tagline {
+    color: #9292b9;
+    font-size: 14px;
+    margin-top: 19px;
+    margin-bottom: 41px;
+}
+
+.thirdPage__Selection1, .thirdPage__Selection2{
+    border: 2px solid #d1d1e0 !important;
+    flex-direction: column;
+    text-transform: inherit !important;
+    width: 180px;
+    height: 180px;
+    transition-duration: 0.4s !important;
+    color: #9292b9 !important;
+    align-items: baseline !important;
+    text-align: left;
+    padding: 1em 1em 1em 1.5em !important;
+    font-family: inherit !important;
+    font-weight: 400 !important;
+}
+
+.thirdPage__Selection1{
+    margin-right: 35px !important;
+    
+}
+
+.thirdPage__Selection1:hover{
+    border: 2px solid #751aff !important;
+    transition: 2s;
+    
+}
+
+.thirdPage__Selection2:hover{
+    border: 2px solid #751aff !important;
+    transition: 2s;
+}
+
+.icon:hover{
+    color: #751aff;
+}
+
+.bold{
+    font-weight: 700 !important;
+}
+
+
+
+.thirdPage__Button {
+    background-color: #751aff !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 200 !important;
+    text-transform: inherit !important;
+    border-radius: 7px !important;
+    width: 410px;
+    height: 45px !important;
+    margin-top: 30px !important;
+    margin-left: auto !important;
+    font-family: inherit !important;
+}
