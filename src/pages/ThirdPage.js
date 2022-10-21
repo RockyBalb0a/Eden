@@ -21,7 +21,11 @@ function ThirdPage() {
         </div>
 
         <div className="thirdPage__Body">
-            <Button className="thirdPage__Selection1">
+            <Button className="thirdPage__Selection1"
+              onClick={() => {
+                
+              }}
+            >
               <PersonIcon className="icon"></PersonIcon>
               <p className="bold">For myself</p>
               Write better. Think more clearly. Stay organized.

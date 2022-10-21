@@ -58,18 +58,18 @@ h1{
 }
 
 .thirdPage__Selection1:hover{
-    border: 2px solid #751aff !important;
+    border: 2px solid #664DE5 !important;
     transition: 2s;
     
 }
 
 .thirdPage__Selection2:hover{
-    border: 2px solid #751aff !important;
+    border: 2px solid #664DE5 !important;
     transition: 2s;
 }
 
 .icon:hover{
-    color: #751aff;
+    color: #664DE5;
 }
 
 .bold{
@@ -79,7 +79,7 @@ h1{
 
 
 .thirdPage__Button {
-    background-color: #751aff !important;
+    background-color: #664DE5 !important;
     border: none !important;
     color: white !important;
     font-weight: 200 !important;
